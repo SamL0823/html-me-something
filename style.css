@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(206, 11, 44);
+}
+
+header {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p {
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+}
+
+img {
+    margin-left: 550px;
+}
+
+h1 {
+    text-align: center;
+}
