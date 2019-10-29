@@ -1,23 +1,31 @@
 body {
-    background-color: rgb(206, 11, 44);
+    background-color: palegoldenrod
 }
 
 header {
+    padding-top: 50px;
     text-align: center;
     font-size: 32px;
     font-weight: bold;
+}
+.h1 {
+    padding-top: 25px;
+    text-align: center;
+    font-size: 28px;
 }
 
 p {
     margin-left: 400px;
     margin-right: 400px;
-    text-align: center;
+    font-size: 20px;
 }
 
 img {
     margin-left: 550px;
 }
 
-h1 {
-    text-align: center;
+
+
+#aftermath {
+    font-size: 20px;
 }
